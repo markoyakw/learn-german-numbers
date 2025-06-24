@@ -1,0 +1,11 @@
+html {
+    --font-size-xxl: 100px;
+    --font-size-xl: 50px;
+    --font-size-l: 35px;
+
+    --color-background: #64405F;
+    --color-card: #D3A9EF;
+
+    --spacing-m: 12px;
+    --spacing-s: 6px;
+}
